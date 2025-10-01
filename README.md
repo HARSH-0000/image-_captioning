@@ -1,4 +1,4 @@
-# Automatic Image Captioning using PyTorch on COCO Dataset
+# Automatic Image Captioning  on MSCOCO Dataset
 
 ## Project Overview
 
@@ -10,7 +10,6 @@ The network will be trained on the Microsoft Common Objects in COntext [(MS COCO
 After training the network, I will test the network on novel images!
 
 ## Preparing the environment
-**Note**: I have developed this project on __Linux__. It can surely be run on Windows and Mac with some little changes.
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
